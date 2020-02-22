@@ -1,0 +1,1 @@
+bin\Release\Flowerz.GASolver.exe Game.txt
